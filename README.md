@@ -35,11 +35,10 @@
 - 🌐 Hammer Fitness-[Hammer-fit](https://hammer-fit.ru/)
 ---
 
-
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,bootstrap,flask,django" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,bootstrap,flask,django,react,reactnative" />
 </p>
 
 ---
@@ -76,4 +75,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer"/>
 </div>
-
