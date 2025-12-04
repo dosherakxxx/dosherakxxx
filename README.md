@@ -4,16 +4,16 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&multiline=true&width=600&height=100&lines=16+y.o.+Web+Developer+from+Kazakhstan;Student+at+IT+Step+Academy+%F0%9F%93%9A;Backend+%7C+Frontend+%7C+Full-Stack;Learning+new+tech+every+day!+%F0%9F%92%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&multiline=true&width=600&height=100&lines=16+y.o.+Web+Developer+from+Kazakhstan;Student+at+IT+Step+Academy+📚;Backend+%7C+Frontend+%7C+Full-Stack;Learning+new+tech+every+day!+💪" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🇰🇿 I'm a web developer based in **Astana, Kazakhstan**| 
-- 👨‍🎓 16 y.o. | **Freelancer & student at IT Step Academy**  
-- 🌍 English level: **Upper-Intermediate (B2)**  
+- 🇰🇿 I'm a web developer based in **Astana, Kazakhstan**
+- 👨‍🎓 16 y.o. | **Freelancer & student at IT Step Academy**
+- 🌍 English level: **Upper-Intermediate (B2)**
 - 🎯 Passionate about **web development**, **backend engineering**, and **learning new technologies**
 - 📲 Telegram: [@dosherakxxxx](https://t.me/dosherakxxxx)
 
@@ -21,24 +21,25 @@
 
 ### 🚀 Personal Projects
 
-- 🌐 homevent.kz-[Homevent Kazakhstan](https://homevent.kz/)(Best work) 
-- 🌐 Mery-[Mery](https://mery.kz/)
-- 🌐 MainBet-[MainBet.kz](https://mainbet.kz/)
-- 🧰 My portfolio site(not relevant)-[Portfolio Website](https://dosherakxxx.github.io/portfoliosite/)  
+- 🌐 **Homevent Kazakhstan** — https://homevent.kz/ *(Best work)*
+- 🌐 **Mery** — https://mery.kz/
+- 🌐 **MainBet** — https://mainbet.kz/
+- 🧰 **Portfolio Website (old)** — https://dosherakxxx.github.io/portfoliosite/
 
 ---
 
 ### 🤝 Team Projects
 
-- 🌐 Cvety.astana.kz-[Cvety Astana](https://cvetyastana-kz.kz/)(First project)
-- 🌐 vivi-bouquet-[Vivi Bouquet](https://www.vivi-bouquet.kz/)  
-- 🌐 Hammer Fitness-[Hammer-fit](https://hammer-fit.ru/)
+- 🌐 **Cvety Astana** — https://cvetyastana-kz.kz/ *(First project)*
+- 🌐 **Vivi Bouquet** — https://www.vivi-bouquet.kz/
+- 🌐 **Hammer Fitness** — https://hammer-fit.ru/
+
 ---
 
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,bootstrap,flask,django,react,reactnative" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,php,python,mysql,bootstrap,flask,django,react,reactnative" />
 </p>
 
 ---
@@ -67,7 +68,7 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   <a href="mailto:kosachv18@bk.ru">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
